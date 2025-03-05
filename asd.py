@@ -1,7 +1,5 @@
 import requests
-from PySide6.QtWidgets import (QApplication, QMainWindow, QTableWidget, QTableWidgetItem,
-                             QVBoxLayout, QWidget, QComboBox, QPushButton, QDialog,
-                             QFormLayout, QTextEdit, QLineEdit)
+from PySide6.QtWidgets import (QApplication, QMainWindow, QTableWidget, QTableWidgetItem, QVBoxLayout, QWidget, QComboBox, QPushButton, QDialog, QFormLayout, QTextEdit, QLineEdit)
 from PySide6.QtCore import Qt
 
 class CatDetailDialog(QDialog):
